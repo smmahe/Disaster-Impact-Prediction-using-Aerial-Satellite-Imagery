@@ -56,3 +56,7 @@ Based on above metric, Labels will be generated for predicted outputs and the sa
 
 - From Satellite Imagery to Disaster Insights. Jigar Doshi, Saikat Basu, Guan Pang. 2018. https://arxiv.org/abs/1812.07033.
 - https://github.com/reachsumit/deep-unet-for-satellite-image-segmentation
+
+## Authors
+- [Mahendren Sundararajan](https://www.linkedin.com/in/mahendrens)
+- [Gogula Krishnan](https://sg.linkedin.com/in/gogulak)
